@@ -9,7 +9,7 @@ I'm a passionate student always eager to learn, with my interests being Computer
   - Deploying Python for Data Analytics and Machine Learning
   - Researching on 'Impact of AI on Modern Education' for my upcomoing seminar
 
-## Technical Stack
+## Technical Stack:
   - Languages              : Python, R, C
   - Data Tools             : Excel, SQL
   - Mathematical Foundation: Statistical Modeling, Linear Algebra, Differential Equations, Multivariable Calculus
