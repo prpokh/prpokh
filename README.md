@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**prpokh/prpokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prasanna Pokharel, a data science undergraduate at TU, Nepal
 
-Here are some ideas to get you started:
+I'm a passionate student always eager to learn, with my interests being Computers and Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus:
+  - Understanding Data Structures and designing Algorithms
+  - Deploying Python for Data Analytics and Machine Learning
+  - Researching on 'Impact of AI on Modern Education' for my upcomoing seminar
+
+## Technical Stack
+  - Languages              : Python, R, C
+  - Data Tools             : Excel, SQL
+  - Mathematical Foundation: Statistical Modeling, Linear Algebra, Differential Equations, Multivariable Calculus
+
+## Hobbies:
+  - Sports: Sports lover, particularly football⚽️, active fantasy football manager(FPL) 
+  - Movies: Casual viewer with appreciation for cinematography and suspenceful storytelling
+  - Music : Rap and RnB music fan with newly found interest in Heavy Metal and Rock
+  - X     : Active on X to learn about latest Tech breakthroughs while also keeping up-to-date with Sports and Popular Culture
