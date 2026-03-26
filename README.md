@@ -7,7 +7,7 @@ I'm a passionate student always eager to learn, with my interests being Computer
 ## Current Focus:
   - Understanding Data Structures and designing Algorithms
   - Deploying Python for Data Analytics and Machine Learning
-  - Researching on 'Impact of AI on Modern Education' for my upcomoing seminar
+  - Researching on 'Impact of AI on Modern Education' for an upcomoing seminar
 
 ## Technical Stack:
   - Languages              : Python, R, C
